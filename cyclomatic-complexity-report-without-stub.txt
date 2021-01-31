@@ -1,0 +1,96 @@
+Mean per-function logical LOC: 3.7142857142857144
+Mean per-function parameter count: 0.7142857142857143
+Mean per-function cyclomatic complexity: 1.7142857142857142
+Mean per-function Halstead effort: 572.3170459280902
+Mean per-module maintainability index: 127.90266085396085
+First-order density: 0%
+Change cost: 100%
+Core size: 0%
+
+main.js
+
+  Physical LOC: 50
+  Logical LOC: 29
+  Mean parameter count: 0.7142857142857143
+  Cyclomatic complexity: 6
+  Cyclomatic complexity density: 20.689655172413794%
+  Maintainability index: 127.90266085396085
+  Dependency count: 0
+
+  Function: BracketStack
+    Line No.: 1
+    Physical LOC: 16
+    Logical LOC: 4
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 25%
+    Halstead difficulty: 3.142857142857143
+    Halstead volume: 76.10749561002055
+    Halstead effort: 239.1949862029217
+
+  Function: <anonymous>.isEmpty
+    Line No.: 3
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1
+    Halstead volume: 8
+    Halstead effort: 8
+
+  Function: <anonymous>.push
+    Line No.: 6
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 0.5
+    Halstead volume: 2
+    Halstead effort: 1
+
+  Function: <anonymous>.pop
+    Line No.: 12
+    Physical LOC: 4
+    Logical LOC: 3
+    Parameter count: 0
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 66.66666666666666%
+    Halstead difficulty: 3
+    Halstead volume: 38.053747805010275
+    Halstead effort: 114.16124341503082
+
+  Function: isSymbol
+    Line No.: 22
+    Physical LOC: 10
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 1.5
+    Halstead volume: 10
+    Halstead effort: 15
+
+  Function: check
+    Line No.: 27
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1.5
+    Halstead volume: 10
+    Halstead effort: 15
+
+  Function: doBracketsMatch
+    Line No.: 38
+    Physical LOC: 13
+    Logical LOC: 14
+    Parameter count: 3
+    Cyclomatic complexity: 5
+    Cyclomatic complexity density: 35.714285714285715%
+    Halstead difficulty: 11.34375
+    Halstead volume: 318.57746264495245
+    Halstead effort: 3613.8630918786794
+
